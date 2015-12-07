@@ -1,4 +1,9 @@
-git tutorials
-s
+1:Unstaged/Untracked 	2:Staging Area	   3:Commit(it provides meta data about who has committed and when and other details)
+cloning - download a new repo which is not existing on your system
+git status
+git add help.txt
+git commit -m "message about the cchanges made"
+git push origin master
 
-hiiiiiiiiiiiiiiiiiii
+to view the committed files
+git show help.txt
