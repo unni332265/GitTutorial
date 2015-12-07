@@ -7,3 +7,6 @@ git push origin master
 
 to view the committed files
 git show help.txt
+
+to clone a repo
+git clone (link to the repo to be cloned)
